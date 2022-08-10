@@ -1,0 +1,13 @@
+.video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+}
+
+.columns {
+  gap: o.75rem;
+  justify-content: center;
+}
+
+.href {
+  width: 100%;
+}
